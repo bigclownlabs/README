@@ -3,7 +3,7 @@
 # Information about the repositories transfer
 
 We moved all our repositories under one GitHub organization. 
-Please go and visit [**HARDWARIO**](https://github.com/hardwario) on GitHub to get all the repositories that was located here.
+Please go and visit https://github.com/hardwario on GitHub to get all the repositories that was located here.
 
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
